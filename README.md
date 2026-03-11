@@ -3,3 +3,7 @@
 
 ![Followers](https://img.shields.io/github/followers/Parinay-Chauhan?style=social)
 ![Stars](https://img.shields.io/github/stars/Parinay-Chauhan?style=social)
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-programming-blue?logo=c++)
+![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react)

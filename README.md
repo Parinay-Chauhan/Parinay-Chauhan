@@ -7,3 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-programming-blue?logo=c++)
 ![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parinay-Chauhan&show_icons=true)

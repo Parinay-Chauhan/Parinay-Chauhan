@@ -10,4 +10,3 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parinay-Chauhan&show_icons=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parinay-Chauhan&show_icons=true)

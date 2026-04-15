@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using React, Node.js, and MongoDB<br>Improving problem-solving skills with Data Structures & Algorithms (DSA)<br>Developing small games and projects using Python.<br><br>🌱 I’m currently learning<br>Advanced JavaScript and backend development<br>Data Structures & Algorithms (in Python)<br>Basics of Machine Learning and system design.<br><br>💬 Ask me about<br>C, C++, Python basics<br>Web development (React, Node.js)<br>Git, GitHub, and project setup.<br><br>⚡ Fun fact<br>I’ve built multiple projects and games, but I’m more focused on improving real-world skills than just collecting projects
+🔭 I’m currently working on<br>Building full-stack web applications using React, Node.js, and MongoDB<br>Improving problem-solving skills with Data Structures & Algorithms (DSA)<br>Developing small games and projects using Python.<br><br>🌱 I’m currently learning<br>Advanced JavaScript and backend development<br>Data Structures & Algorithms<br>Basics of Machine Learning and system design.<br><br>💬 Ask me about<br>C, C++, Python basics<br>Web development (React, Node.js)<br>Git, GitHub, and project setup.<br><br>⚡ Fun fact<br>I’ve built multiple projects and games, but I’m more focused on improving real-world skills than just collecting projects
 
 
 ## 🌐 Socials:

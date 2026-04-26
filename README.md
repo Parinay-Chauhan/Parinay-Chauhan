@@ -12,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Parinay-Chauhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parinay-Chauhan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parinay-Chauhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilhuh&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Parinay-Chauhan&limit=5&theme=dark&combine_all_yearly_contributions=true)

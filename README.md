@@ -75,26 +75,25 @@ I’ve built multiple projects and games, but I’m more focused on improving re
 
 <b>My GitHub Stats</b>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
 <p align="left">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (Using Alternative Instance) -->
   <a href="https://github.com/Parinay-Chauhan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Parinay-Chauhan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Parinay-Chauhan's GitHub stats" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Parinay-Chauhan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Stats" />
   </a>
   <br/>
-  <!-- Streak Stats (Updated Stable Link) -->
+  <!-- Streak Stats (With Force Refresh) -->
   <a href="https://github.com/Parinay-Chauhan">
-    <img src="https://streak-stats.demolab.com/?user=Parinay-Chauhan&theme=tokyonight&hide_border=true&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Parinay-Chauhan&theme=tokyonight&hide_border=true&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="Streak" />
   </a>
   <br/>
-  <!-- Top Languages -->
+  <!-- Top Languages (Using Alternative Instance) -->
   <a href="https://github.com/Parinay-Chauhan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinay-Chauhan&langs_count=10&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Parinay-Chauhan&langs_count=10&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Languages" />
   </a>
 </p>
+
+
+
 
 </p>
 

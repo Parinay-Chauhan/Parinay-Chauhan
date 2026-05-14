@@ -74,8 +74,8 @@ I’ve built multiple projects and games, but I’m more focused on improving re
 
 <p align="left">
   <!-- GitHub Stats (Using Alternative Instance) -->
-  <a href="https://github.com/Parinay-Chauhan">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Parinay-Chauhan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Stats" />
+ <a href="https://github.com/Parinay-Chauhan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parinay-Chauhan&theme=tokyonight&bg_color=000000" alt="Stats" />
   </a>
   <br/>
   <!-- Streak Stats (With Force Refresh) -->

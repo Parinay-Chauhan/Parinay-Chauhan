@@ -91,10 +91,3 @@ I’ve built multiple projects and games, but I’m more focused on improving re
     <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Parinay-Chauhan&langs_count=10&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Languages" />
   </a>
 </p>
-
-
-
-
-</p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/parinay-chauhan-610763300/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.github.com/Parinay-Chauhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>

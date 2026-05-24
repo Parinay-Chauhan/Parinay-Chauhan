@@ -83,8 +83,4 @@ I’ve built multiple projects and games, but I’m more focused on improving re
     <img src="https://streak-stats.demolab.com/?user=Parinay-Chauhan&theme=tokyonight&hide_border=true&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="Streak" />
   </a>
   <br/>
-  <!-- Top Languages (Using Alternative Instance) -->
-  <a href="https://github.com/Parinay-Chauhan">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Parinay-Chauhan&langs_count=10&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" alt="Languages" />
-  </a>
 </p>

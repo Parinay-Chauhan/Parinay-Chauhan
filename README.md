@@ -22,7 +22,7 @@ Basics of Machine Learning and system design.
 
 💬 Ask me about
 
-C, C++, Python basics
+C, C++, JavaScript, Python basics
 
 Web development (React, Node.js)
 

@@ -22,9 +22,9 @@ Basics of Machine Learning and system design.
 
 💬 Ask me about
 
-C, C++, JavaScript, Python basics
+C, C++, JavaScript, Python 
 
-Web development (React, Node.js)
+Web development (React, TailwindCSS, Node.js, Express, MongoDB )
 
 Git, GitHub, and project setup.
 

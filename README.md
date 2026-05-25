@@ -32,7 +32,6 @@ Git, GitHub, and project setup.
 
 I’ve built multiple projects and games, but I’m more focused on improving real-world skills than just collecting projects
 
-* 🖥️  See my portfolio at [parinay chauhan](http://portfolio-website-wqbc.vercel.app)
 * ✉️  You can contact me at [parinay07chauhan2006@gmail.com](mailto:parinay07chauhan2006@gmail.com)
 
 <p align="left">

@@ -78,6 +78,10 @@ I’ve built multiple projects and games, but I’m more focused on improving re
   <br/>
 
   ![](https://github-readme-stats.shion.dev/api?username=Parinay-Chauhan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parinay-Chauhan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+
   <!-- Streak Stats (With Force Refresh) -->
   <a href="https://github.com/Parinay-Chauhan">
     <img src="https://streak-stats.demolab.com/?user=Parinay-Chauhan&theme=tokyonight&hide_border=true&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="Streak" />

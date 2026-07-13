@@ -97,7 +97,7 @@ Git, GitHub, and project setup.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parinay-Chauhan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics">
 </p>
 
 

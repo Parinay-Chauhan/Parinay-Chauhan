@@ -81,20 +81,6 @@ Git, GitHub, and project setup.
 
 <p align="left"> <a href="https://www.linkedin.com/in/parinay-chauhan-610763300/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.github.com/Parinay-Chauhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p><br/>
 
-<b>My GitHub Stats</b>
-</br>
-
-<p align="left">
-  <!-- GitHub Stats (Using Alternative Instance) -->
- <a href="https://github.com/Parinay-Chauhan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parinay-Chauhan&theme=tokyonight&bg_color=000000" alt="Stats" />
-  </a>
-  <br/>
-
-  ![](https://github-readme-stats.shion.dev/api?username=Parinay-Chauhan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parinay-Chauhan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 
 <p align="center">
   <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics">

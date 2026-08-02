@@ -23,7 +23,7 @@ jobs:
 
           filename: github-metrics.svg
 
-          base: header, activity, repositories
+          base: header
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -32,7 +32,3 @@ jobs:
           plugin_languages_limit: 8
 
           plugin_achievements: yes
-
-          plugin_followup: yes
-
-          plugin_repositories: yes

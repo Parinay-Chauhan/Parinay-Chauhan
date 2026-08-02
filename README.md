@@ -29,7 +29,7 @@ Web development (React, TailwindCSS, Node.js, Express, MongoDB )
 Git, GitHub, and project setup.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://https://portfolio-website-sa7t.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-website-sa7t.vercel.app/)
 * ✉️  You can contact me at [parinay07chauhan2006@gmail.com](mailto:parinay07chauhan2006@gmail.com)
 * 🧠  I'm currently learning Data Structure & Algorithm
 

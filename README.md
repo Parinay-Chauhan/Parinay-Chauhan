@@ -39,7 +39,7 @@ Git, GitHub, and project setup.
 [![Languages](https://skillicons.dev/icons?i=c,cpp,py,js,ts)](https://skillicons.dev)
 
 ### 🧑‍💻 Code Editors
-[![Code Editors](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Code Editors](https://skillicons.dev/icons?i=vscode,antigravity,anaconda,intelij)](https://skillicons.dev)
 
 ### 💻 Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,vite,sass)](https://skillicons.dev)
@@ -51,13 +51,13 @@ Git, GitHub, and project setup.
 [![Software](https://skillicons.dev/icons?i=figma,framer)](https://skillicons.dev)
 
 ### 💻 Cloud
-[![Cloud](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ### 🧑‍💻 Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=linux,macos)](https://skillicons.dev)
 
 ### 🧑‍💻 Other
-[![Other](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=docker,kubernetes,readhat)](https://skillicons.dev)
 <br/>
 </p>
 <br/>

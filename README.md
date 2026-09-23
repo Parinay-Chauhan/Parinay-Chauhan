@@ -57,7 +57,7 @@ Git, GitHub, and project setup.
 [![Operating Systems](https://skillicons.dev/icons?i=linux,macos)](https://skillicons.dev)
 
 ### 🧑‍💻 Other
-[![Other](https://skillicons.dev/icons?i=flutter,docker,kubernetes,appwrite,neovim)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 <br/>
 </p>
 <br/>

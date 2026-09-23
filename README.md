@@ -90,3 +90,5 @@ Git, GitHub, and project setup.
   </a>
   <br/>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,vue,angular,svelte)](https://skillicons.dev)

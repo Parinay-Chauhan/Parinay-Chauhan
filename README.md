@@ -92,3 +92,7 @@ Git, GitHub, and project setup.
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,vue,angular,svelte)](https://skillicons.dev)
+<br>
+
+### My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode,python&perline=6)](https://skillicons.dev)
